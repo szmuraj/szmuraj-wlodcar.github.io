@@ -144,3 +144,4 @@ C:\Users\szmuraj\source\repos\WlodCar\obj\Debug\net9.0\refint\WlodCar.dll
 C:\Users\szmuraj\source\repos\WlodCar\obj\Debug\net9.0\WlodCar.pdb
 C:\Users\szmuraj\source\repos\WlodCar\obj\Debug\net9.0\WlodCar.genruntimeconfig.cache
 C:\Users\szmuraj\source\repos\WlodCar\obj\Debug\net9.0\ref\WlodCar.dll
+C:\Users\szmuraj\source\repos\WlodCar\obj\Debug\net9.0\WlodCar.sourcelink.json
