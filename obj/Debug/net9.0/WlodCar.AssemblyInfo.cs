@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WlodCar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871f91f57447f36d3d5a3672c382e975d4b448d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fccdd93b41798c31b9a81253b6abc859dc34661")]
 [assembly: System.Reflection.AssemblyProductAttribute("WlodCar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WlodCar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
